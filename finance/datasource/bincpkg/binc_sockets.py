@@ -74,8 +74,8 @@ def print_msg(msg):
 
 
 async def main():
-    api_key = "plZs99V1J2je95KHRBiVa6HG8fUZlS169X2Wc0woqbeGSF0drOP7Y5uljZQrgXao"
-    api_secret = "wBi65iknjQeWDo63albZP44YvoJUiLTtx1H4fn8eTct5U0g40cSNFBVyTCbcMJNF"
+    api_key = "xxx"
+    api_secret = "xxx"
 
     soc = BinanceCandleSocket(api_key, api_secret)
 
